@@ -1,5 +1,3 @@
-# World-Ranks
-An Application Called World-Ranks By Using React and Next js
 Live Demo:https://celmeli-world-ranks.netlify.app/
 ## A SHORT VIEW OF APPLICATON
 
